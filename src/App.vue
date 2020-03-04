@@ -1,11 +1,9 @@
-<template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+<template lang="pug">
+  div(id="app")
+    div(id="nav")
+      <router-link to="/">Главная</router-link> |
+      <router-link to="/game">Игра</router-link>
     <router-view/>
-  </div>
 </template>
 
 <style lang="scss">
