@@ -5,6 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "to_pages": "vue-cli-service build --output-public-path='/pfdo_test/'",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
