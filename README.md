@@ -1,5 +1,10 @@
 # pfdo_ru_test
 
+## Show ready result
+```
+https://thermonuclear.github.io/pfdo_test/
+```
+
 ## Project setup
 ```
 npm install
