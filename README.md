@@ -2,7 +2,7 @@
 
 ## Show ready result
 ```
-https://thermonuclear.github.io/pfdo_test/
+Просмотр по адресу https://thermonuclear.github.io/pfdo_test/
 ```
 
 ## Project setup
