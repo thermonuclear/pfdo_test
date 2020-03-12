@@ -1,9 +1,7 @@
 # pfdo_ru_test
 
 ## Show ready result
-```
-Просмотр по адресу https://thermonuclear.github.io/pfdo_test/
-```
+https://thermonuclear.github.io/pfdo_test/
 
 ## Project setup
 ```
